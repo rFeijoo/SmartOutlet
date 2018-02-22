@@ -10,9 +10,9 @@
 /*							*/
 /********************************************************/
 
-#define	LED	13	//LED on if at least one relay is activated
-#define	Relay_A	8	//Relay: Channel A
-#define	Relay_B 7	//Relay: Channel B
+#define	LED	13					//LED on if at least one relay is activated
+#define	Relay_A	8					//Relay: Channel A
+#define	Relay_B 7					//Relay: Channel B
 
 //Global State of each channel
 bool	state_A	= LOW;
@@ -25,7 +25,7 @@ void	setup()
 	pinMode(Relay_B, OUTPUT);
 
 	Serial.begin(9600);
-	while (!Serial)		//Wait until serial is available
+	while (!Serial)					//Wait until serial is available
 	;
 }
 
