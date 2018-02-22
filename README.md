@@ -13,4 +13,4 @@ REQUIRED
 
 CIRCUIT SCHEMATICS
 
-![alt text](screenshots/breadboard.png)
+![alt text](screenshots/breadboard.jpg)
