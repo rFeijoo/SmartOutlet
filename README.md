@@ -10,7 +10,13 @@ REQUIRED
   ->  Bluetooth module (as the HC-05)
   
   ->  Power strip with 2 or more outlets (the one used was the ONEAL-OAC801)
+  
+  -> 2 relay module
+  
+  -> 3 LEDS, 3 330 OHMS resistors
 
 CIRCUIT SCHEMATICS
+
+The schematic was made using arduino standalone, but you could certainly use the Arduino UNO Board and its power supply.
 
 ![alt text](screenshots/breadboard.jpg)
