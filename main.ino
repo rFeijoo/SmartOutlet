@@ -1,7 +1,7 @@
 /********************************************************/
 /*							*/
 /*							*/
-/*	smart_outlet.ino				*/
+/*	main.ino					*/
 /*							*/
 /*	By: rFeijoo <goldcard99@hotmail.com>		*/
 /*							*/
