@@ -10,3 +10,7 @@ REQUIRED
   ->  Bluetooth module (as the HC-05)
   
   ->  Power strip with 2 or more outlets (the one used was the ONEAL-OAC801)
+
+CIRCUIT SCHEMATICS
+
+![alt text](screenshots/filename.png)
