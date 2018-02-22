@@ -1,24 +1,16 @@
-/********************************************************/
-/*                                                      */
-/*                                                      */
-/*      smart_outlet.ino                                */
-/*                                                      */
-/*      By: rFeijoo <goldcard99@hotmail.com>            */
-/*                                                      */
-/*      Created: 2018/02/19 17:54:37                    */
-/*      Updated: 2018/02/21 22:02:42                    */
-/*                                                      */
-/********************************************************/
+ABOUT
 
-#SmartOutlet
+  This project is intended to turn a ordinary power strip into a smart power strip. Using an Arduino UNO, a bluetooth module (HC-05) and two relay modules, you can turn on/off lights and any other eletronic you want to.
+  
 
-Make a bluetooth power switch using an Arduino Uno:
+REQUIRED
+  
+  ->  Arduino UNO, or MEGA
+  
+  ->  Bluetooth module (as the HC-05)
+  
+  ->  Power strip with 2 or more outlets (the one used was the ONEAL-OAC801)
 
--> 1 Arduino UNO or MEGA
--> 1 HC05 module (Bluetooth module)
--> 1 power strip (at least 2 outlets)
+CIRCUIT SCHEMATICS
 
-  We are dealing with high voltages, make sure it's turned off so you can do the 
-project. And remember, I take no responsibilitys, at all.
-  For this project I used the standalone arduino with the circuit on a breadboard,
-inside my power strip (ONEAL - OAC801).
+![alt text](screenshots/breadboard.png)
